@@ -26,8 +26,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- A basic understanding of Git and GitHub.
-- SQL Server managment studio 
+- You'll need to have:
+   - A basic understanding of Git and GitHub.
+   - SQL Server managment studio.
 
 
 ## Install
