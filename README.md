@@ -49,7 +49,8 @@ After installing SQL Server managment studio please follow the next steps...
    - 1st CREATE TABLE Venue, 2nd CREATE TABLE genre, 3rd CREATE TABLE Artist
    - 4th CREATE TABLE Customer, 5th CREATE TABLE Concert, 6th CREATE TABLE Ticket and finally CREATE TABLE customer_order
 - After you've created the tables you can insert the values:
-   - Select everything starting from the first INSERT INTO Customer statment to the last line and click on the execute button. 
+   - Select everything starting from the first INSERT INTO Customer statment to the last line and click on the execute button.
+- To open the application go to bin/Debug of where you cloned this repo and open the file FinalProject.exe 
 
 ### Usage
 
