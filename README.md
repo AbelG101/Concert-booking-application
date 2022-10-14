@@ -24,7 +24,7 @@
 To get a local copy up and running follow these simple example steps.
 
 
-### Prerequisites
+## Prerequisites
 
 - You'll need to have:
    - A basic understanding of Git and GitHub.
